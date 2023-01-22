@@ -1,5 +1,8 @@
 ### Hi there 👋 I am passionate front-end developer from India
 
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif"> 
+
 - 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning Jvascript,React
 - 👯 I’m looking to collaborate on React Based Projects
@@ -8,7 +11,7 @@
 - 📫 How to reach me: raajaimi@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: Im a boxer with my finger and my keyboard is a ring.
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif"> 
+
 
 
 
