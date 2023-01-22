@@ -8,8 +8,8 @@
 - 📫 How to reach me: raajaimi@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: Im a boxer with my finger and my keyboard is a ring.
-<img align="right" alt="coding" width="400" src=""> 
-<div style=" image-align:right; width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif"> 
+
 
 
 
