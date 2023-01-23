@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif"> 
 
 - 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning Jvascript,React
+- 🌱 I’m currently learning Javascript,React
 - 👯 I’m looking to collaborate on React Based Projects
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about Front-End Development
